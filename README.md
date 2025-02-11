@@ -3,7 +3,9 @@
 `Linux System Programming | Networking | CyberSecurity`
 
 🧑‍💻 an enthusiast sharing about my learnings in tech 
+
 ✍️ writing articles about linux and networking at [SegF4ult](https://www.facebook.com/segf4ult) Facebook Page.
+
 📚 currently learning C, Python, Linux internals, and Networking
 
 
