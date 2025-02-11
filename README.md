@@ -3,7 +3,7 @@
 `Linux System Programming | Networking | CyberSecurity`
 
 ### About Me:
-👨🏻‍💻 an enthusiast sharing about my learnings in tech <br>✍️ writing articles about linux and networking at [SegF4ult](https://www.facebook.com/segf4ult) Facebook Page.<br>📚 currently learning C, Python, Linux internals, and Networking<br>🧑‍💻 I'm currently working on (py-msgd)[https://github.com/thihahtoozin/py-msgd] repo
+👨🏻‍💻 an enthusiast sharing about my learnings in tech <br>✍️ writing articles about linux and networking at [SegF4ult](https://www.facebook.com/segf4ult) Facebook Page.<br>📚 currently learning C, Python, Linux internals, and Networking<br>🧑‍💻 I'm currently working on [py-msgd](https://github.com/thihahtoozin/py-msgd) repo
 
 
 ## 🌐 Socials:
