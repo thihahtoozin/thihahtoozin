@@ -5,7 +5,7 @@
 ### About Me:
 I am a linux enthusiast.
 <br>
-I'm currently working on [lightweight-http-server](https://github.com/thihahtoozin/lightweight-http-server)
+I'm currently working on [unresolved](https://github.com/thihahtoozin/unresolved)
 <br>
 📚 I am currently learning
 - System Programming in C
